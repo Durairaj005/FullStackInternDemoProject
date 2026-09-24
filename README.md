@@ -7,6 +7,10 @@ A functional full-stack **Competition Details Module** for the **Feedants Creato
 - **Database**: MongoDB + Mongoose (atomic transactions, schema constraints, indexing)
 
 ---
+## Sample Screenshots
+<img width="531" height="842" alt="WhatsApp Image 2026-09-24 at 4 55 21 AM" src="https://github.com/user-attachments/assets/70447549-a1e1-4fca-99e6-a0773e4f46ac" />
+<img width="535" height="836" alt="WhatsApp Image 2026-09-24 at 4 55 21 AM (1)" src="https://github.com/user-attachments/assets/46e3743e-978f-4ce5-9d32-a55fcfd0f014" />
+<img width="531" height="837" alt="WhatsApp Image 2026-09-24 at 4 55 21 AM (2)" src="https://github.com/user-attachments/assets/df406d20-2ffa-44fb-a433-25acdc5cb23e" />
 
 ## 📸 Design Reference Implementation
 
